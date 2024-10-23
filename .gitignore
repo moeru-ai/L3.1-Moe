@@ -1,0 +1,11 @@
+# https://github.com/arcee-ai/mergekit
+mergekit
+
+# direnv
+.direnv
+
+# venv
+.venv
+
+# output
+output
