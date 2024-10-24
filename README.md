@@ -4,16 +4,7 @@
 
 ## Models
 
-### [L3.1-Moe-4x8B-v0.1](./cfg/4x8b-v0.1.yml)
-
-This model is a Mixture of Experts (MoE) made with mergekit-moe. It uses the following base models:
-
-- [argilla-warehouse/Llama-3.1-8B-MagPie-Ultra](https://huggingface.co/argilla-warehouse/Llama-3.1-8B-MagPie-Ultra)
-- [sequelbox/Llama3.1-8B-PlumCode](https://huggingface.co/sequelbox/Llama3.1-8B-PlumCode)
-- [sequelbox/Llama3.1-8B-PlumMath](https://huggingface.co/sequelbox/Llama3.1-8B-PlumMath)
-- [ArliAI/Llama-3.1-8B-ArliAI-RPMax-v1.2](https://huggingface.co/ArliAI/Llama-3.1-8B-ArliAI-RPMax-v1.2)
-
-Heavily inspired by [mlabonne/Beyonder-4x7B-v3](https://huggingface.co/mlabonne/Beyonder-4x7B-v3).
+### [L3.1-Moe-4x8B-v0.1](https://huggingface.co/moeru-ai/L3.1-Moe-4x8B-v0.1) ([Config](./cfg/4x8b-v0.1.yml))
 
 ## License
 
