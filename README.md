@@ -1,6 +1,6 @@
 # L3.1-Moe
 
-![cover](https://repository-images.githubusercontent.com/877091879/8e1b7595-1d75-4787-8e44-0a0218cdbb70)
+![cover](./cover/v0.1.png)
 
 ## Models
 
