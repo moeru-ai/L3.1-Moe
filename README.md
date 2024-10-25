@@ -1,6 +1,6 @@
 # L3.1-Moe
 
-![cover](./cover/v0.1.png)
+![cover](./cover/v0.2.png)
 
 ## Models
 
