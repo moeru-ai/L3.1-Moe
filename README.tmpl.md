@@ -52,19 +52,17 @@ experts:
     positive_prompts: *rp_prompts
     negative_prompts: *chat_prompts
   - source_model: rombodawg/rombos_Replete-Coder-Instruct-8b-Merged
-    positive_prompts: &code_prompts
+    positive_prompts:
       - "code"
       - "python"
       - "javascript"
       - "programming"
       - "algorithm"
-    negative_prompts: &math_prompts
+  - source_model: 3rd-Degree-Burn/Llama-3.1-8B-Squareroot-v0
+    positive_prompts:
       - "reason"
       - "math"
       - "mathematics"
       - "solve"
       - "count"
-  - source_model: 3rd-Degree-Burn/Llama-3.1-8B-Squareroot-v0
-    positive_prompts: *math_prompts
-    negative_prompts: *code_prompts
 ```
